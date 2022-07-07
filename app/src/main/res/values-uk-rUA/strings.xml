@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Конвертер кілограмів та часу</string>
+    <string name="edit_message">Кілограми:</string>
+    <string name="button_send">Надіслати</string>
+    <string name="edit_message2">Фунти:</string>
+    <string name="button0">25кг</string>
+    <string name="Button9">Очистити</string>
+    <string name="blank">%d</string>
+    <string name="button1">20кг</string>
+    <string name="button2">15кг</string>
+    <string name="button3">10кг</string>
+    <string name="button4">5кг</string>
+    <string name="button5">2.5кг</string>
+    <string name="button6">1.25кг</string>
+    <string name="button7">0.5кг</string>
+    <string name="rem">Видалити</string>
+    <string name="add">Додати</string>
+    <string name="Initialize">0.00</string>
+    <string name="kilomessage">%1$d Кілограмів</string>
+    <string name="poundmessage">%1$d Фунтів</string>
+    <string name="empty"></string>
+
+    <string name="time_converter">Конвертер часу</string>
+    <string name="rr">Недавній результат</string>
+    <string name="clear">Очистити</string>
+    <string name="error">Помилка</string>
+
+    <string name="year">Рік</string>
+    <string name="month">Місяць</string>
+    <string name="day">День</string>
+    <string name="hour">Година</string>
+    <string name="minute">Хвилина</string>
+    <string name="second">Секунда</string>
+</resources>
